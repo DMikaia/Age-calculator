@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DMikaia/Age-calculator)
-- Live Site URL: [Add live site URL here](https://dm-age-calculator.netlify.app/)
+- Solution URL: [My Solution](https://github.com/DMikaia/Age-calculator)
+- Live Site URL: [Age Calculator live server](https://dm-age-calculator.netlify.app/)
 
 ### Built with
 
