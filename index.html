@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+    <script defer src="script/app.js"></script>
+    <title>Frontend Mentor | Age calculator app</title>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <form action="/" id="form">
+                <div class="input-flex">
+                    <div class="content">
+                        <label for="day" id="day-red">Day</label>
+                        <input type="text" name="day" placeholder="DD" id="day">
+                        <small id="day-error"></small>
+                    </div>
+
+                    <div class="content">
+                        <label for="month" id="month-red">Month</label>
+                        <input type="text" name="month" placeholder="MM" id="month">
+                        <small id="month-error"></small>
+                    </div>
+
+                    <div class="content">
+                        <label for="year" id="year-red">Year</label>
+                        <input type="text" name="year" placeholder="YYYY" id="year">
+                        <small id="year-error"></small>
+                    </div>
+                </div>
+
+                <div class="input-line">
+                    <hr>
+                    <button class="arrow"><img src="images/icon-arrow.svg" alt="Icon of an arrow"></button>
+                </div>
+            </form>
+
+            <section class="output">
+                <h1><span id="y">--</span> years</h1>
+                <h1><span id="m">--</span> months</h1>
+                <h1><span id="d">--</span> days</h1>
+            </section>
+        </div>
+    </main>
+
+    <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+        Coded by <a href="#">Your Name Here</a>.
+    </div>
+</body>
+</html>
