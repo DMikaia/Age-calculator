@@ -62,4 +62,4 @@ I am still a beginner on JavaScript and I will work on improving my skills on it
 
 ## Author
 
-- Frontend Mentor - [@DMikaia](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@DMikaia](https://www.frontendmentor.io/profile/DMikaia)
